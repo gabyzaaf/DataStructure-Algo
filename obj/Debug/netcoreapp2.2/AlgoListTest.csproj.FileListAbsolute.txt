@@ -1,0 +1,14 @@
+/Users/zaafranigabriel/Projects2/AlgoListTest/bin/Debug/netcoreapp2.2/NUnit3.TestAdapter.dll
+/Users/zaafranigabriel/Projects2/AlgoListTest/bin/Debug/netcoreapp2.2/NUnit3.TestAdapter.pdb
+/Users/zaafranigabriel/Projects2/AlgoListTest/bin/Debug/netcoreapp2.2/nunit.engine.netstandard.dll
+/Users/zaafranigabriel/Projects2/AlgoListTest/bin/Debug/netcoreapp2.2/AlgoListTest.deps.json
+/Users/zaafranigabriel/Projects2/AlgoListTest/bin/Debug/netcoreapp2.2/AlgoListTest.runtimeconfig.json
+/Users/zaafranigabriel/Projects2/AlgoListTest/bin/Debug/netcoreapp2.2/AlgoListTest.runtimeconfig.dev.json
+/Users/zaafranigabriel/Projects2/AlgoListTest/bin/Debug/netcoreapp2.2/AlgoListTest.dll
+/Users/zaafranigabriel/Projects2/AlgoListTest/bin/Debug/netcoreapp2.2/AlgoListTest.pdb
+/Users/zaafranigabriel/Projects2/AlgoListTest/obj/Debug/netcoreapp2.2/AlgoListTest.csprojAssemblyReference.cache
+/Users/zaafranigabriel/Projects2/AlgoListTest/obj/Debug/netcoreapp2.2/AlgoListTest.csproj.CoreCompileInputs.cache
+/Users/zaafranigabriel/Projects2/AlgoListTest/obj/Debug/netcoreapp2.2/AlgoListTest.AssemblyInfoInputs.cache
+/Users/zaafranigabriel/Projects2/AlgoListTest/obj/Debug/netcoreapp2.2/AlgoListTest.AssemblyInfo.cs
+/Users/zaafranigabriel/Projects2/AlgoListTest/obj/Debug/netcoreapp2.2/AlgoListTest.dll
+/Users/zaafranigabriel/Projects2/AlgoListTest/obj/Debug/netcoreapp2.2/AlgoListTest.pdb
