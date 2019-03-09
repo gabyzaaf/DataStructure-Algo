@@ -40,9 +40,10 @@ namespace DictionaryTests {
         }
 
         // REMOVE ELEMENT
+        [Test]
         public void Should_remove_an_element_when_selected()
         {
-            
+            Check.That(true).IsTrue();
         }
         // UPDATE ELEMENT
 
