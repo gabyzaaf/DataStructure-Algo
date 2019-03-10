@@ -43,12 +43,51 @@ namespace DictionaryTests {
         [Test]
         public void Should_remove_an_element_when_selected()
         {
-            Check.That(true).IsTrue();
+            DictionaryGeneric dico = new DictionaryGeneric();
+            dico.Add("Hello","titi");
+            dico.Remove("Hello");
+            var value = dico.Get("Hello");
+            Check.That(value).IsNull();
         }
         // UPDATE ELEMENT
+        [Test]
+        public void Should_update_an_element_when_selected()
+        {
+            DictionaryGeneric dico = new DictionaryGeneric();
+            dico.Add("Hello","titi");
+            dico.Update("Hello","lala");
+            var value = dico.Get("Hello");
+            Check.That(value).IsEqualTo("lala");
+        }
+
+        [Test]
+        public void Should_return_size_when_selected()
+        {
+            DictionaryGeneric dico = new DictionaryGeneric();
+            dico.Add("Hello","titi");
+            dico.Add("HILLA","titi");
+            var size = dico.Size();
+            Check.That(size).IsEqualTo(2);
+        }
 
         // ADD NEW SIZE
-
+        // [Test]
+        // public void Should_calculate_the_size_of_20_pourcent()
+        // {
+        //     int res = (10 * 30/100);
+        //     DictionaryGeneric dico = new DictionaryGeneric();
+        //     dico.Add("a","titi");
+        //     dico.Add("b","titi");
+        //     dico.Add("c","titi");
+        //     dico.Add("d","titi");
+        //     dico.Add("e","titi");
+        //     dico.Add("f","titi");
+        //     dico.Add("g","titi");
+        //     dico.Add("h","titi");
+        //     dico.Add("i","titi");
+        //    // dico.Add("POPOPO","titi");
+        //     Check.That(dico.Size()).IsEqualTo(13);
+        // }
 
         
     }
